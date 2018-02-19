@@ -1,0 +1,43 @@
+* {
+	font-family: sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+thead {
+
+}
+
+tbody {
+
+}
+
+.table {
+ width: 800px;
+}
+
+.cell {
+	vertical-align: middle;
+    text-align: center;
+    height: 50px;
+}
+
+.header__cell { 
+	vertical-align: middle;
+    text-align: center;
+    font-weight: bold;
+ }
+
+.header {
+	border-bottom: 1px solid grey;
+}
+
+.header_fixed {
+
+}
+
+.row {
+	border-bottom: 1px solid grey; 
+}
